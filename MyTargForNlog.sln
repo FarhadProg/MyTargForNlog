@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTargForNlog", "MyTargForNlog\MyTargForNlog.csproj", "{39F0817A-BC07-4901-846A-46F1AE422005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F0817A-BC07-4901-846A-46F1AE422005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F0817A-BC07-4901-846A-46F1AE422005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F0817A-BC07-4901-846A-46F1AE422005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F0817A-BC07-4901-846A-46F1AE422005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C0571C5-D017-4D74-A4F9-CA3CB3472244}
+	EndGlobalSection
+EndGlobal
